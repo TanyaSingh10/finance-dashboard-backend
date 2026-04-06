@@ -88,3 +88,8 @@ curl -X 'GET' \
   'http://localhost:8000/dashboard/summary' \
   -H "Authorization: Bearer $TOKEN"
 ```
+## Screenshots
+
+The API dashboard (Swagger UI) is included in the repository as a PDF for reference.
+
+- File: `ss_finance_dashboard.pdf`
